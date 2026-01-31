@@ -3,17 +3,19 @@
     "id": "bodega_pops_001",
     "name": "Pops",
     "role": "Bodega Owner",
-    "location": "Church Ave Corner",
-    "personality": "Wise, strict but kind, knows every kid in the neighborhood.",
+    "home_plot": "94-10",
+    "location_description": "Corner of E 94th St - The Anchor Store",
+    "personality": "Neighborhood watch, strict but kind.",
     "dialogue_style": "Brooklyn-Caribbean patois blend",
     "schedule": "06:00-22:00"
   },
   {
     "id": "dj_smooth_002",
     "name": "Smooth",
-    "role": "Aspiring DJ / Messenger",
-    "location": "Step-down Basement",
-    "personality": "Always has the latest tapes, connected to the street pulse.",
+    "role": "Local Creative / Messenger",
+    "home_plot": "91-02",
+    "location_description": "E 91st St - Basement Lab",
+    "personality": "Street intelligence, always has the latest neighborhood pulse.",
     "dialogue_style": "90s Hip-Hop slang",
     "schedule": "12:00-02:00"
   }
