@@ -1,0 +1,4 @@
+[
+  { "npc_id": "bodega_pops_001", "routine": [{"time": "06:00", "action": "Open Shop"}, {"time": "22:00", "action": "Close Shop"}] },
+  { "npc_id": "dj_smooth_002", "routine": [{"time": "14:00", "action": "Set up Speakers"}, {"time": "02:00", "action": "Pack up"}] }
+]

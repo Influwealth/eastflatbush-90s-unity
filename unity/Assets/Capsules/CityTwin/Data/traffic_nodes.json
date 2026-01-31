@@ -1,0 +1,6 @@
+{
+  "nodes": [
+    {"id": "node_91_church", "pos": [40.651, -73.921], "connections": ["node_92_church"]},
+    {"id": "node_92_church", "pos": [40.652, -73.921], "connections": ["node_91_church"]}
+  ]
+}
