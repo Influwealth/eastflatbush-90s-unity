@@ -1,0 +1,26 @@
+{
+  "capsule_id": "east-flatbush-block-twin-001",
+  "center_coordinate": [40.6515, -73.9213],
+  "blocks": [
+    {
+      "street": "East 91st St",
+      "plots": [
+        {"id": "91-01", "type": "residential", "floors": 2, "footprint": [10, 20]},
+        {"id": "91-02", "type": "residential", "floors": 2, "footprint": [10, 20]}
+      ]
+    },
+    {
+      "street": "East 92nd St",
+      "plots": [
+        {"id": "92-01", "type": "community_space", "floors": 1, "footprint": [30, 40]},
+        {"id": "92-05", "type": "residential", "floors": 3, "footprint": [15, 25]}
+      ]
+    },
+    {
+      "street": "East 94th St",
+      "plots": [
+        {"id": "94-10", "type": "commercial", "floors": 1, "footprint": [20, 30], "label": "Corner Store"}
+      ]
+    }
+  ]
+}
