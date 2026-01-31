@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bodega_pops_001",
+    "name": "Pops",
+    "role": "Bodega Owner",
+    "location": "Church Ave Corner",
+    "personality": "Wise, strict but kind, knows every kid in the neighborhood.",
+    "dialogue_style": "Brooklyn-Caribbean patois blend",
+    "schedule": "06:00-22:00"
+  },
+  {
+    "id": "dj_smooth_002",
+    "name": "Smooth",
+    "role": "Aspiring DJ / Messenger",
+    "location": "Step-down Basement",
+    "personality": "Always has the latest tapes, connected to the street pulse.",
+    "dialogue_style": "90s Hip-Hop slang",
+    "schedule": "12:00-02:00"
+  }
+]
