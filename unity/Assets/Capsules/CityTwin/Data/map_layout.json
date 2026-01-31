@@ -1,0 +1,6 @@
+{
+  "district": "East Flatbush",
+  "focus_blocks": ["E 91st", "E 92nd", "E 93rd", "E 94th"],
+  "coordinate_system": "UTM",
+  "data_sources": ["City Plot Maps", "Geospatial Ingestion"]
+}

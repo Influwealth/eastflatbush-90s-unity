@@ -1,18 +1,13 @@
-# East Flatbush 90s — Unity City Twin Capsule
+# East Flatbush Block-Twin Capsule (E 91st - E 98th)
 
-A sovereign, simulation-grade digital twin of 1990s East Flatbush, built using Unity 6.3 LTS, the WealthBridge Capsule SDK, and the Antigravity automation engine.
+A sovereign, coordinate-accurate digital replica of the East Flatbush corridor, specifically the blocks of E 91st, 92nd, 93rd, 94th, and surrounding streets.
 
-## 📌 Project Overview
-The East Flatbush 90s City Twin recreates a historically accurate, culturally rich version of East Flatbush during the 1990s.
-- **NPCs**: Real schedules, dialogue, and behaviors (Antigravity-driven).
-- **Environment**: Dynamic 90s atmosphere, bodegas, and subway nodes.
-- **Integration**: Full WealthBridge OS Ledger connectivity.
+## 📌 Mission: Geospatial Sovereignty
+This is not a generic simulation. It is a building-by-building reconstruction of the physical community for:
+- **Urban Planning**: Community-led design.
+- **Economic Simulation**: Tracking value and assets on specific plots.
+- **Historical Preservation**: An exact 1:1 record of the neighborhood structure.
 
-## 🧱 Repository Structure
-- /unity: The core Unity 6.3 project.
-- /automation: Python scripts for Antigravity & Gemini agents.
-- /capsules: Metadata and templates for the City Twin SDK.
-- /docs: Architecture and NPC design specs.
-
-## ⚙️ Build Pipeline
-Run python automation/unity_build.py --target webgl to deploy to WealthBridge OS.
+## 🧱 Data Components
+- /unity/Assets/Capsules/CityTwin/Data/footprints.json: Exact GPS coordinates of buildings.
+- /automation/generate_map.py: Script to extrude 3D buildings from real-world plot data.
